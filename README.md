@@ -38,7 +38,9 @@
     <img width="283" alt="Screen Shot 2020-05-22 at 6 25 37 PM" src="https://user-images.githubusercontent.com/25276186/82718816-bf13f500-9c59-11ea-9dd5-f2da6e335181.png">
 
 # How to play the game
-  -
+  - You may use the mouse to move fighter aircraft to anywhere within the screen.
+  - You may press spacebar to launch missile.
+  - You can press [z] and [x] key on keyboard to activate the two special skills.
   
 # Licence
   - All the background music and image files contain in this project are collected from open source websites.
