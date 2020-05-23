@@ -27,7 +27,8 @@
   - Open src folder and selected all the c++ source files, beside follwoing three file: ofApp.cpp, ofApp.h and main.cpp.
   <img width="552" alt="Screen Shot 2020-05-22 at 6 35 54 PM" src="https://user-images.githubusercontent.com/25276186/82718975-1c5c7600-9c5b-11ea-94fb-c991977c05f0.png">
     <img width="550" alt="Screen Shot 2020-05-22 at 6 18 00 PM" src="https://user-images.githubusercontent.com/25276186/82718649-9a6b4d80-9c58-11ea-80d7-72049b169bf8.png">
-  - Drag the all the source files that you just selected to your IDE under folder *[src]*. 
+ 
+ - Drag the all the source files that you just selected to your IDE under folder *[src]*. 
     <img width="1792" alt="Screen Shot 2020-05-22 at 6 21 34 PM" src="https://user-images.githubusercontent.com/25276186/82718743-3eed8f80-9c59-11ea-9306-079d710aaf9b.png">
   - Finally you can run the project.
   
