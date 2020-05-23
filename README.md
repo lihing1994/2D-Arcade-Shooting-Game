@@ -1,9 +1,8 @@
 # Introuduction
-- This project is insprited by Pro.Kevin Smith and has been submitted as personal course work for the course CS134 at San Jose State University. While this project never implemented by any Gaming Engine, the game is fully power by OpenFrameWork, which is a open source C++ toolkit. That is to say, you need to install OpenFrameWork in your computer to run this project. Please check the instructions below regarding to the detail about how to run the project.
+  - This project is insprited by Pro.Kevin Smith and has been submitted as personal course work for the course CS134 at San Jose State University. While this project never implemented by any Gaming Engine, the game is fully power by OpenFrameWork, which is a open source C++ toolkit. That is to say, you need to install OpenFrameWork in your computer to run this project. Please check the instructions below regarding to the detail about how to run the project.
 ![Project1_part1_AirCraft_500by500_1](https://user-images.githubusercontent.com/25276186/82721553-ecb96800-9c72-11ea-8b0f-c9c0af2e11d6.png)
 
 ## Video Demo for the game
-- 
   - Please click the follwing picture to see the vedio demo.
   - [![](http://img.youtube.com/vi/sCB5WyUXB4E/0.jpg)](http://www.youtube.com/watch?v=sCB5WyUXB4E "")
 ## Instruction to run the game
@@ -38,6 +37,11 @@
   
     <img width="283" alt="Screen Shot 2020-05-22 at 6 25 37 PM" src="https://user-images.githubusercontent.com/25276186/82718816-bf13f500-9c59-11ea-9dd5-f2da6e335181.png">
 
+# Licence
+  - All the background music and image files contain in this project are collected from open source websites.
+  - Some of image,which collected from open source websites, has been modified by Photoshop.
+  - Started code,including *ParticleEmitter,ParticleForce,ParticleSystem,TransformObject and Particle* is provided by Pro.Kevin Smith. However most of the started code has been modified to fulfill my personal project demand.(e.g, support various moving path for enemy)
+ 
 # Credit
   - Hing Li
-
+  - Pro.Kevin Smith
