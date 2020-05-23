@@ -29,5 +29,6 @@
   - Drag the all the source files that you just selected to your IDE under folder *[src]*. 
     <img width="1792" alt="Screen Shot 2020-05-22 at 6 21 34 PM" src="https://user-images.githubusercontent.com/25276186/82718743-3eed8f80-9c59-11ea-9306-079d710aaf9b.png">
   - Finally you can run the project.
+  
     <img width="283" alt="Screen Shot 2020-05-22 at 6 25 37 PM" src="https://user-images.githubusercontent.com/25276186/82718816-bf13f500-9c59-11ea-9dd5-f2da6e335181.png">
 
