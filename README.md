@@ -37,6 +37,6 @@
   
     <img width="283" alt="Screen Shot 2020-05-22 at 6 25 37 PM" src="https://user-images.githubusercontent.com/25276186/82718816-bf13f500-9c59-11ea-9dd5-f2da6e335181.png">
 
-# File lisence
-- Follwoing file in this project include the background music and image is find and collect on open source website.
+# Credit
+  - Hing Li
 
