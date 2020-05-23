@@ -4,8 +4,7 @@
 ![Project1_part1_AirCraft_500by500_1](https://user-images.githubusercontent.com/25276186/82721553-ecb96800-9c72-11ea-8b0f-c9c0af2e11d6.png)
 
 ## Video demo for the game
-  - Please click the follwing picture to see the video demo.
-  [![](http://img.youtube.com/vi/sCB5WyUXB4E/0.jpg)](http://www.youtube.com/watch?v=sCB5WyUXB4E "")
+  - Please click the follwing picture to see the video demo.<br/>[![](http://img.youtube.com/vi/sCB5WyUXB4E/0.jpg)](http://www.youtube.com/watch?v=sCB5WyUXB4E "")
 ## Instruction to run the game 
   - Please visit following link to download OpenFrameWork: https://openframeworks.cc/download/
   - Please unzip the file you just download.
