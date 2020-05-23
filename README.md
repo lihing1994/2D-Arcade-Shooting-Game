@@ -11,7 +11,7 @@
   - Please visit following link to download OpenFrameWork: https://openframeworks.cc/download/
   - Please unzip the file you just download.
   - After you unzip the file, you should see a folder that contain OpenFrameWork (e.g, of_v0.9.8_osx_release)
-     (Note: the different verison of OpenFrameWork that you download may result the folder contain different name.)
+     (Note: the different verison of OpenFrameWork that you download may result the different folder's name.)
      <img width="259" alt="Screen Shot 2020-05-22 at 6 00 19 PM" src="https://user-images.githubusercontent.com/25276186/82718248-3cd60180-9c56-11ea-8764-479f6a2233df.png">
   - Open the folder. Then you may see there is a subfolder, called *[projectGenerator]*. Please open that folder.<img width="554" alt="Screen Shot 2020-05-22 at 6 05 40 PM" src="https://user-images.githubusercontent.com/25276186/82718381-0b116a80-9c57-11ea-86c7-4a8eb2d6d805.png">
      
