@@ -1,5 +1,5 @@
 # Introuduction
-  - This project is insprited by Pro.Kevin Smith and has been submitted as personal coursework project for the course CS134 at San Jose State University. While this project never implemented by any Gaming Engine, the game is fully powered by **OpenFrameWork**, which is a open source C++ toolkit. **That is to say, you need to install OpenFrameWork in your computer to run this project. Please check the instructions below regarding to the detail about how to run the project.**
+  - This project is insprited by Pro.Kevin Smith and has been submitted as personal coursework project for the CS134 at San Jose State University. While this project isn't implemented by any Gaming Engine, the game is fully powered by **OpenFrameWork**, which is a open source C++ toolkit. **That is to say, you need to install OpenFrameWork in your computer to run this project. Please check the instructions below regarding to the detail about how to run the project.**
 ![Project1_part1_AirCraft_500by500_1](https://user-images.githubusercontent.com/25276186/82721553-ecb96800-9c72-11ea-8b0f-c9c0af2e11d6.png)
 
 ## Video demo for the game
