@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<group>
+	<rate>5</rate>
+	<life>5</life>
+	<velocity>142.857, 112.245, 0</velocity>
+	<Bullet_direction_°_:_>0</Bullet_direction_°_:_>
+	<Bullet_shooting_angle°:_>4.05</Bullet_shooting_angle°:_>
+	<Bullet_rate>5</Bullet_rate>
+	<Bullet_life>5</Bullet_life>
+	<Enemy_rate>5</Enemy_rate>
+	<Enemy_life>0.11</Enemy_life>
+	<Background_music>1</Background_music>
+</group>
