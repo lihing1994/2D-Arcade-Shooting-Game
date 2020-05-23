@@ -30,7 +30,7 @@
   - Copy and paste both src and bin folders that post in this GitHub page to the folder you just open. The system will ask if you want to replace folder that already exisited. please select [yes].<img width="976" alt="Screen Shot 2020-05-22 at 7 44 35 PM" src="https://user-images.githubusercontent.com/25276186/82720042-c096ea80-9c64-11ea-9d81-a2e2147a1785.png">
 
   - Open *[src]* folder and selected all the c++ source files, beside follwoing three files: ofApp.cpp, ofApp.h and main.cpp.
-    <img width="550" alt="Screen Shot 2020-05-22 at 6 18 00 PM" src="https://user-images.githubusercontent.com/25276186/82718649-9a6b4d80-9c58-11ea-80d7-72049b169bf8.png">
+      <img width="550" alt="Screen Shot 2020-05-22 at 6 18 00 PM" src="https://user-images.githubusercontent.com/25276186/82718649-9a6b4d80-9c58-11ea-80d7-72049b169bf8.png">
 
  
   - Drag the all the source files that you just selected to your IDE under folder *[src]*. 
