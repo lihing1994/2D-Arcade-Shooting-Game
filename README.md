@@ -27,7 +27,8 @@
   - Open the subfolder, named *[myApps]*.
     <img width="557" alt="Screen Shot 2020-05-22 at 6 14 57 PM" src="https://user-images.githubusercontent.com/25276186/82718592-3779b680-9c58-11ea-95c7-9cae18d3a692.png">
     
-  - Then you may find the folder that you just gernate and please open that folder.
+  - Then you may find the folder that you just gernate and please open that folder.<img width="491" alt="Screen Shot 2020-05-22 at 6 10 39 PM" src="https://user-images.githubusercontent.com/25276186/82720014-7f9ed600-9c64-11ea-99b4-55b0d67619f4.png">
+
   - Copy and paste both src and bin folders that post in this GitHub page to the folder you just open. The system will ask if you want to replace folder that current exisited floder, please select <yes>.
   - Open *[src]* folder and selected all the c++ source files, beside follwoing three file: ofApp.cpp, ofApp.h and main.cpp<img width="552" alt="Screen Shot 2020-05-22 at 6 35 54 PM" src="https://user-images.githubusercontent.com/25276186/82718975-1c5c7600-9c5b-11ea-94fb-c991977c05f0.png"><img width="550" alt="Screen Shot 2020-05-22 at 6 18 00 PM" src="https://user-images.githubusercontent.com/25276186/82718649-9a6b4d80-9c58-11ea-80d7-72049b169bf8.png">
  
