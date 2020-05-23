@@ -24,7 +24,7 @@
   
   - Open the subfolder, named *[myApps].* <img width="557" alt="Screen Shot 2020-05-22 at 6 14 57 PM" src="https://user-images.githubusercontent.com/25276186/82718592-3779b680-9c58-11ea-95c7-9cae18d3a692.png">
     
-  - Then you may find the folder that you just gernate and please open that folder.<img width="491" alt="Screen Shot 2020-05-22 at 6 10 39 PM" src="https://user-images.githubusercontent.com/25276186/82720014-7f9ed600-9c64-11ea-99b4-55b0d67619f4.png"> <img width="555" alt="Screen Shot 2020-05-23 at 12 23 53 AM" src="https://user-images.githubusercontent.com/25276186/82724584-f7342b80-9c8b-11ea-9418-4f2f3ded48ac.png">
+  - Then you may find the folder that you just gernate. please open that folder.<img width="491" alt="Screen Shot 2020-05-22 at 6 10 39 PM" src="https://user-images.githubusercontent.com/25276186/82720014-7f9ed600-9c64-11ea-99b4-55b0d67619f4.png"> <img width="555" alt="Screen Shot 2020-05-23 at 12 23 53 AM" src="https://user-images.githubusercontent.com/25276186/82724584-f7342b80-9c8b-11ea-9418-4f2f3ded48ac.png">
 
 
   - Copy and paste both src and bin folders that post in this GitHub page to the folder you just open. The system will ask if you want to replace folder that already exisited. please select <yes>.<img width="976" alt="Screen Shot 2020-05-22 at 7 44 35 PM" src="https://user-images.githubusercontent.com/25276186/82720042-c096ea80-9c64-11ea-9d81-a2e2147a1785.png">
