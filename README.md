@@ -4,7 +4,7 @@
 
 ## Video Demo for the game
   - Please click the follwing picture to see the vedio demo.
-  - [![](http://img.youtube.com/vi/sCB5WyUXB4E/0.jpg)](http://www.youtube.com/watch?v=sCB5WyUXB4E "")
+  [![](http://img.youtube.com/vi/sCB5WyUXB4E/0.jpg)](http://www.youtube.com/watch?v=sCB5WyUXB4E "")
 ## Instruction to run the game
 - 
   - Please visit following link to download OpenFrameWork: https://openframeworks.cc/download/
