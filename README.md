@@ -47,7 +47,7 @@
 # Licence
   - All the background music and image files contain in this project are collected from open source websites.
   - Some of image,which collected from open source websites, has been modified by Photoshop.
-  - Started code,including *ParticleEmitter,ParticleForce,ParticleSystem,TransformObject and Particle* is provided by Pro.Kevin Smith. However most of the started code has been modified to fulfill my personal project demand.(e.g, support various moving path for enemy)
+  - Start code,including *ParticleEmitter,ParticleForce,ParticleSystem,TransformObject and Particle* is provided by Pro.Kevin Smith. However most of the start code has been modified to fulfill my personal project demand.(e.g, support various moving path for enemy)
  
 # Credit
   - Hing Li
