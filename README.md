@@ -40,9 +40,9 @@
 # How to play the game
   - You may use the mouse to move fighter aircraft to anywhere within the screen.
   - You may press spacebar to launch missile.
-  - You can press [z] and [x] key on keyboard to activate the two special skills.
+  - You may press [z] and [x] key on keyboard to activate the two special skills.
   
-# Licence
+# License
   - All the background music and image files contain in this project are collected from open source websites.
   - Some of image,which collected from open source websites, has been modified by Photoshop.
   - Start code,including *ParticleEmitter,ParticleForce,ParticleSystem,TransformObject and Particle* is provided by Pro.Kevin Smith. However most of the start code has been modified to fulfill my personal project demand.(e.g, support various moving path for enemy)
