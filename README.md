@@ -20,7 +20,8 @@
     <img width="491" alt="Screen Shot 2020-05-22 at 6 10 39 PM" src="https://user-images.githubusercontent.com/25276186/82718480-97bc2880-9c57-11ea-8cd5-9aa9150c5414.png">
     
   - Go back to the privous folder and open the folder, named *[apps]*.<img width="550" alt="Screen Shot 2020-05-22 at 6 13 34 PM" src="https://user-images.githubusercontent.com/25276186/82718559-fbdeec80-9c57-11ea-8217-a3632a0d46a6.png">
-    
+  
+  
   - Open the subfolder, named *[myApps]*.<img width="557" alt="Screen Shot 2020-05-22 at 6 14 57 PM" src="https://user-images.githubusercontent.com/25276186/82718592-3779b680-9c58-11ea-95c7-9cae18d3a692.png">
     
   - Then you may find the folder that you just gernate and please open that folder.<img width="491" alt="Screen Shot 2020-05-22 at 6 10 39 PM" src="https://user-images.githubusercontent.com/25276186/82720014-7f9ed600-9c64-11ea-99b4-55b0d67619f4.png">
